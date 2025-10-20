@@ -4,7 +4,7 @@
 ---
 
 ## 👋 About Me  
-Hello! I’m Nguyen Thai Anh, a dedicated lecturer at the **Faculty of Information Technology, Van Lang University**. I graduated with **Second-Class Honors in Information Technology** from Van Lang University in July 2022 and earned my **Master’s in Data Science and Artificial Intelligence** in May 2024. My journey in academia and research has fueled my passion for **AI, Machine Learning, and Deep Learning**. I strive to advance these fields through innovative solutions and inspire the next generation of tech leaders.
+Hello! I’m Nguyen Thai Anh, a dedicated lecturer at the **Faculty of Information Technology, Van Lang University**. I graduated with **Second-Class Honors in Information Technology** and earned my **Master’s in Data Science and Artificial Intelligence** in May 2024. My journey in academia and research has fueled my passion for **AI, Machine Learning, and Deep Learning**. I strive to advance these fields through innovative solutions and inspire the next generation of tech leaders.
 
 ---
 
