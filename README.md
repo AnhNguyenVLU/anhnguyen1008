@@ -25,7 +25,6 @@ Explore my publications on [Google Scholar](https://scholar.google.com/citations
 
 ## 📫 Connect with Me  
 - **Email**: [anh.nt@vlu.edu.vn](mailto:anh.nt@vlu.edu.vn)  
-- **Facebook**: [AnhNguyen10082000](https://www.facebook.com/AnhNguyen10082000)  
 
 I’m always open to collaborations, research discussions, or just a friendly chat about AI!
 
